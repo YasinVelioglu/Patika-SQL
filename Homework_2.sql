@@ -1,4 +1,4 @@
--Ödev 2
+--Ödev 2
 
 --Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
 
